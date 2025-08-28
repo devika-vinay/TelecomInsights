@@ -1,4 +1,4 @@
-# 📞 Telecom Customer Insights – Midterm Practical  
+# 📞 Telecom Customer Insights
 
 This project explored customer data from a mobile telecom network to uncover **drivers of dropped calls, usage patterns, and service quality issues**. The analysis focused on linking customer demographics, devices, and plans with network performance outcomes.  
 
